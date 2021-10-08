@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 🤝 I’m looking for help with **MERN-app Deployment**
-
 - 👨‍💻 All of my projects are available at [https://github.com/souritrakar](https://github.com/souritrakar)
 
 - 💬 Ask me about **React, JavaScript**
