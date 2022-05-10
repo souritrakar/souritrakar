@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souritrakar" alt="souritrakar" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack Apps**
+- 🔭 I’m currently working on **Machine Learning with Python**
 
 - 🌱 I’m currently learning **MERN stack and socket.io**
 
