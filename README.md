@@ -6,18 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souritrakar" alt="souritrakar" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning with Python**
-
-- 🌱 I’m currently learning **MERN stack and socket.io**
-
-- 👯 I’m looking to collaborate on **any project**
-
+- 
 - 👨‍💻 All of my projects are available at [https://github.com/souritrakar](https://github.com/souritrakar)
 
-- 💬 Ask me about **React, JavaScript**
-
 - 📫 How to reach me **souritra.kar@gmail.com**
-
-- My LinkedIn: [https://linkedin.com/souritrakar](https://linkedin.com/souritrakar)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
