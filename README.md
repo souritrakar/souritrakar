@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Souritra</h1>
-<h3 align="center">I like creating things with code</h3>
+<h3 align="center">I like creating stuff with code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souritrakar&label=Profile%20views&color=0e75b6&style=flat" alt="souritrakar" /> </p>
 
