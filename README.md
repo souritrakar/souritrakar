@@ -6,8 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souritrakar" alt="souritrakar" /></a> </p>
 
 - 🔭 I’m currently working on **Python**
+- 🌱 I’m currently learning Data Structures and Algorithms in Python
 
 - 👨‍💻 All of my projects are available at [https://github.com/souritrakar](https://github.com/souritrakar)
+- 👯 I’m looking to collaborate on **JavaScript**
 
 - 📫 How to reach me **souritra.kar@gmail.com**
 
