@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Souritra</h1>
 <h3 align="center">I like creating stuff with code</h3>
 
-- 🔭 I’m currently working on **Personal Website**
+- 🔭 I’m currently working on **Blog integration for Personal Website**
 - 🌱 I’m currently learning **Data Structures and Algorithms in Python**
 
 - 👨‍💻 All of my projects are available at [github.com/souritrakar](https://github.com/souritrakar)
